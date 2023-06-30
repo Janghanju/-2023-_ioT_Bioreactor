@@ -14,9 +14,9 @@
 #include <BlynkSimpleEsp32.h>
 
 // Enter device Authentication Token
-char auth[] ="QN6sKlapOZrg1w1Ivz5A204B5DdxiicP";
-#define BLYNK_TEMPLATE_ID "TMPL6YIHA6kVv"
-#define BLYNK_TEMPLATE_NAME "2023 Bioreactor project"
+char auth[] ="";
+#define BLYNK_TEMPLATE_ID ""
+#define BLYNK_TEMPLATE_NAME ""
 
 // Vpin 설정
 #define VPIN_TDS V0 // menentukan nama pin dalam blynk ( V0 dpilih semasa menentukan button di app blynk) 
